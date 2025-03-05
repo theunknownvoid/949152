@@ -4360,3 +4360,4 @@ end
 
 
 library:config_list_update()
+return library
